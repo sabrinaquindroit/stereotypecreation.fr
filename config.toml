@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "https://sabrinaquindroit.github.io/stereotypecreation.fr/"
+baseurl = "http://stereotypecreation.fr/"
 languageCode = "fr-FR"
-title = "Stereotype Création"
+title = "Stereotype Creation - Sabrina Quindroit"
 theme = "stereotype-theme"
 
 [params]
