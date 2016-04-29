@@ -5,8 +5,8 @@ title = "Stereotype Creation - Sabrina Quindroit"
 theme = "stereotype-theme"
 
 [params]
-    name = "Stereotype Creation - Sabrina Quindroit"
     description = "Créations de graphisme textiles, illustrations et peintures"
+    name = "Sabrina Quindroit"
     email = "contact@stereotypecreation.fr"
 
     subtitle    = "Créations de graphisme textiles, illustrations et peintures"
