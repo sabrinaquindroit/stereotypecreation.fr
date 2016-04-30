@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ with .Params.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body id="page-top" class="index">
+
+        {{ partial "header.html" . }}
+        {{ partial "spotify.html" . }}
+        {{ partial "portfolio.html" . }}
+        {{ partial "about.html" . }}
+        {{ partial "contact.html" . }}
+        {{ partial "js.html" . }}
+        <script>
+
+            $(document).ready(function () {
+
+                $('.imgborder').hover(function() { $(this).prev().css({'width': $(this).width(),'height':$(this).height()}); });
+
+                var spotify = "{{ with .Site.Params.spotify }}{{ . }}{{ end }}";
+                $('.spotify .button').click(function() {
+                    $(this).parent().html('<iframe frameborder="0" src="' + spotify + '" allowtransparency="true"></iframe>'); });
+            });
+        </script>
+
+    </body>
+</html>

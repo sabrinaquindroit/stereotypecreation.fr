@@ -4,9 +4,9 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <img class="h2-top" src="{{ .Site.BaseURL }}img/h2-top.png" />
-                <h2>{{ with .Site.Params.contact.title }}{{.}}{{ end }}</h2>
+                <h2>{{ with .Params.contact_title }}{{.}}{{ end }}</h2>
                 <img class="h2-bottom" src="{{ .Site.BaseURL }}img/h2-bottom.png" />
-                <p>{{ with .Site.Params.contact.message }}{{.}}{{ end }}</p>
+                <p>{{ with .Params.contact_message }}{{.}}{{ end }}</p>
                 <br />
             </div>
         </div>
@@ -18,15 +18,15 @@
                 <form  action="//formspree.io/{{ with .Site.Params.email }}{{.}}{{ end }}" method="POST" name="sentMessage" id="contactForm" novalidate>
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>{{ with .Site.Params.contact.form.name.text }}{{.}}{{ end }}</label>
-                            <input type="text" name="name" class="form-control" placeholder="{{ with .Site.Params.contact.form.name.text }}{{.}}{{ end }}" id="name" required data-validation-required-message="{{ with .Site.Params.contact.form.name.error }}{{.}}{{ end }}">
+                            <label>{{ with .Params.contact_form_name_text }}{{.}}{{ end }}</label>
+                            <input type="text" name="name" class="form-control" placeholder="{{ with .Params.contact_form_name_text }}{{.}}{{ end }}" id="name" required data-validation-required-message="{{ with .Params.contact_form_name_error }}{{.}}{{ end }}">
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>{{ with .Site.Params.contact.form.email.text }}{{.}}{{ end }}</label>
-                            <input type="email" name="_replyto" class="form-control" placeholder="{{ with .Site.Params.contact.form.email.text }}{{.}}{{ end }}" id="email" required data-validation-required-message="{{ with .Site.Params.contact.form.email.error }}{{.}}{{ end }}">
+                            <label>{{ with .Params.contact_form_email_text }}{{.}}{{ end }}</label>
+                            <input type="email" name="_replyto" class="form-control" placeholder="{{ with .Params.contact_form_email_text }}{{.}}{{ end }}" id="email" required data-validation-required-message="{{ with .Params.contact_form_email_error }}{{.}}{{ end }}">
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
@@ -37,8 +37,8 @@
                     </div>
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>{{ with .Site.Params.contact.form.message.text }}{{.}}{{ end }}</label>
-                            <textarea rows="5" name="message" class="form-control" placeholder="{{ with .Site.Params.contact.form.message.text }}{{.}}{{ end }}" id="message" required data-validation-required-message="{{ with .Site.Params.contact.form.message.error }}{{.}}{{ end }}"></textarea>
+                            <label>{{ with .Params.contact_form_message_text }}{{.}}{{ end }}</label>
+                            <textarea rows="5" name="message" class="form-control" placeholder="{{ with .Params.contact_form_message_text }}{{.}}{{ end }}" id="message" required data-validation-required-message="{{ with .Params.contact_form_message_error }}{{.}}{{ end }}"></textarea>
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
@@ -46,7 +46,7 @@
                     <div id="success"></div>
                     <div class="row">
                         <div class="form-group col-xs-12">
-                            <button type="submit" class="btn btn-success btn-lg">{{ with .Site.Params.contact.form.button.text }}{{.}}{{ end }}</button>
+                            <button type="submit" class="btn btn-success btn-lg">{{ with .Params.contact_form_button_text }}{{.}}{{ end }}</button>
                         </div>
                     </div>
                 </form>

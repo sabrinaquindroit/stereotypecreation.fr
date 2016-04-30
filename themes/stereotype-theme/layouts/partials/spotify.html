@@ -1,10 +1,3 @@
 <div class="spotify">
     <img class="button" src="{{ .Site.BaseURL }}img/spotify.png" />
-    <script>
-        $(document).ready(function(){
-            var spotify = "{{ with .Site.Params.spotify }}{{ . }}{{ end }}";
-            $('.spotify .button').click(function() {
-            $(this).parent().html('<iframe frameborder="0" src="' + spotify + '" allowtransparency="true"></iframe>'); });
-        });
-    </script>
 </div>

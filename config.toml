@@ -1,14 +1,10 @@
 # Site settings
 baseurl = "http://stereotypecreation.fr/"
-languageCode = "fr-FR"
-title = "Stereotype Creation - Sabrina Quindroit"
 theme = "stereotype-theme"
 
 [params]
-    description = "Créations de graphisme textiles, illustrations et peintures"
     name = "Sabrina Quindroit"
     email = "contact@stereotypecreation.fr"
-
     subtitle    = "Créations de graphisme textiles, illustrations et peintures"
     facebook    = "https://www.facebook.com/stereotypecreation/"
     pinterest   = "https://fr.pinterest.com/quindroit/"
@@ -16,30 +12,4 @@ theme = "stereotype-theme"
     spotify     = "https://open.spotify.com/embed/user/spotify/playlist/6AV1SULGwX3OFyYzoZqokN?theme=white"
 
 
-    [params.portfolio]
-        title = "My Works"
-
-    [params.about]
-        title = "A propos"
-        message = "Phasellus vehicula varius tortor ultrices laoreet. Nulla vitae euismod sem, eget maximus sapien. </p><p>Etiam vestibulum hendrerit felis nec facilisis. Donec justo nisl, euismod nec accumsan vel, efficitur et sapien. Nullam eleifend urna quis neque commodo rhoncus. </p><p>Nulla malesuada tortor vitae nunc pellentesque sollicitudin. Morbi vel diam eget nisi dictum vulputate. Ut dapibus, nunc a rutrum dictum, mauris tellus malesuada nunc, non eleifend dui diam sed ligula. Nunc enim lorem, imperdiet gravida mauris sed, viverra faucibus ipsum. Etiam cursus hendrerit magna, nec volutpat dui convallis eget. Curabitur facilisis tempus neque, id mattis velit commodo ut. Phasellus eget lacus sit amet nunc facilisis tristique."
-        image = "profile.png"
-
-    [params.contact]
-        title = "Contact"
-        message = "Pour une commande, un projet, ou une collaboration n'hésitez pas à me contacter :"
-
-        [params.contact.form.name]
-            text = "Nom"
-            error = "Please enter your name."
-
-        [params.contact.form.email]
-            text = "Email"
-            error = "Please enter your email address."
-
-        [params.contact.form.message]
-            text = "Message"
-            error = "Please enter a message."
-
-        [params.contact.form.button]
-            text = "Envoyer"
 

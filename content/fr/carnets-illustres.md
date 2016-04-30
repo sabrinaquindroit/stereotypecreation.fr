@@ -1,7 +1,10 @@
 ---
-title: Illustrations
+lang: fr
+position: 3
+type: portfolio
+title : Carnets illustres
 description: Illustrations réalisées à la main
-images: illustrations
+images: carnets-illustres
 ---
 
 Quid enim tam absurdum quam delectari multis inanimis rebus, ut honore, ut gloria, ut aedificio, ut vestitu cultuque corporis, animante virtute praedito, eo qui vel amare vel, ut ita dicam, redamare possit, non admodum delectari? Nihil est enim remuneratione benevolentiae, nihil vicissitudine studiorum officiorumque iucundius.

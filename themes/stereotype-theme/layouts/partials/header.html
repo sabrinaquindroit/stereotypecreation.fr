@@ -5,7 +5,7 @@
             <div class="col-lg-12">
                 <img class="logo img-responsive" src="{{ .Site.BaseURL }}img/logo.png" alt="">
                 <div>
-                    {{ with .Site.Params.subtitle }}{{ . }}{{ end }}
+                    {{ with .Params.logo_subtitle }}{{ . }}{{ end }}
                 </div>
                 <div class="follow">
                     <a target="_blank" href="{{ with .Site.Params.facebook }}{{ . }}{{ end }}"><img src="{{ .Site.BaseURL }}img/facebook.png" alt="Facebook"></a>
@@ -13,7 +13,7 @@
                     <a target="_blank" href="{{ with .Site.Params.instagram }}{{ . }}{{ end }}"><img src="{{ .Site.BaseURL }}img/instagram.png" alt="Instagram"></a>
                 </div>
                 <div class="lang">
-                    <a href="{{ .Site.BaseURL }}">FR</a> / <a href="{{ .Site.BaseURL }}en">EN</a>
+                    <a href="{{ .Site.BaseURL }}fr/">FR</a> / <a href="{{ .Site.BaseURL }}en/">EN</a>
                 </div>
             </div>
         </div>
