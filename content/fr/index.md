@@ -23,7 +23,7 @@ contact_message              : "Pour une commande, un projet, ou une collaborati
 contact_form_name_text       : "Nom"
 contact_form_name_error      : "Merci de saisir votre nom."
 contact_form_email_text      : "Email"
-contact_form_email_error     : "Merci de saisir votre adress email"
+contact_form_email_error     : "Merci de saisir votre adresse email"
 contact_form_message_text    : "Message"
 contact_form_message_error   : "Merci de saisir un message."
 contact_form_button_text     : "Envoyer"
