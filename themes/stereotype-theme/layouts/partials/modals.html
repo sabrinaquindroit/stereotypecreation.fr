@@ -1,6 +1,3 @@
-{{ "<!-- Portfolio Modals -->" | safeHTML }}
-
-
 {{ range .Data.Pages }}
 <div class="post">
     <h1 class="post-title">
@@ -11,7 +8,6 @@
     {{ .Description }}
 </div>
 {{ end }}
-
 {{ range .Site.Data.projects }}
 <div class="portfolio-modal modal fade" id="portfolioModal{{ .modalID }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">

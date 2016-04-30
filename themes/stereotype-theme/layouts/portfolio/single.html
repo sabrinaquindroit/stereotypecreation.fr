@@ -1,19 +1,15 @@
 {{ $url := .Site.BaseURL }}
 {{ $images := .Params.images }}
 {{ $language := .Params.lang }}
-
-
 <!DOCTYPE html>
-<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<html>
 <head>
     {{ partial "head.html" . }}
     <link href="{{ .Site.BaseURL }}css/jquery.excoloSlider.css" rel="stylesheet">
 </head>
 <body id="page-top" class="index">
 <section id="main">
-
         <div class="container">
-
             <div class="row">
                 <div class="col-lg-12 text-right"><br><br><br>
                     <h2 id="title" style="font-weight: 700;">{{ .Title }}</h2>
@@ -35,33 +31,24 @@
                     </div>
                 </div>
             </div>
-
             <div class="row">
                 <div class="col-lg-12 text-left"><br><br><br>
                     <b><a href="{{ .Site.BaseURL }}{{ $language }}/">< Retour</a></b>
                 </div>
             </div>
-
         </div>
-
-
 </section>
 
 {{ partial "js.html" . }}
-
 <script src="{{ .Site.BaseURL }}js/jquery.excoloSlider.min.js"></script>
-
 <script>
-
     $(document).ready(function () {
-
         $("#slider").excoloSlider({
             interval: 5000,
             playReverse: true,
             width: '600',
             hight: '600'
         });
-
     });
 </script>
 </body>
