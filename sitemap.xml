@@ -7,19 +7,35 @@
   </url>
   
   <url>
-    <loc>http://stereotypecreation.fr/carnets-illustres/</loc>
+    <loc>http://stereotypecreation.fr/fr/carnets-illustres/</loc>
   </url>
   
   <url>
-    <loc>http://stereotypecreation.fr/graphisme-textile/</loc>
+    <loc>http://stereotypecreation.fr/fr/graphisme-textile/</loc>
   </url>
   
   <url>
-    <loc>http://stereotypecreation.fr/illustrations/</loc>
+    <loc>http://stereotypecreation.fr/fr/illustrations/</loc>
   </url>
   
   <url>
-    <loc>http://stereotypecreation.fr/tableaux/</loc>
+    <loc>http://stereotypecreation.fr/en/paintings/</loc>
+  </url>
+  
+  <url>
+    <loc>http://stereotypecreation.fr/en/</loc>
+  </url>
+  
+  <url>
+    <loc>http://stereotypecreation.fr/fr/</loc>
+  </url>
+  
+  <url>
+    <loc>http://stereotypecreation.fr/fr/tableaux/</loc>
+  </url>
+  
+  <url>
+    <loc>http://stereotypecreation.fr/en/textile-graphic/</loc>
   </url>
   
 </urlset>
