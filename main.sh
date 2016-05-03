@@ -14,7 +14,7 @@ case $choix in
             hugo
             git add .
             git commit -m "Mise en ligne du `date`"
-            git git subtree push --prefix public/ origin gh-pages
+            git subtree push --prefix public/ origin gh-pages
             git push origin master
             echo "OK."
             exit;;
