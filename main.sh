@@ -1,4 +1,5 @@
 #!/bin/sh
+cd "$( dirname "${BASH_SOURCE[0]}" )"
 echo "--- Menu général ---"
 echo "Saisissez un choix,  <q> pour quitter le menu"
 echo "<1> 	Apercu du site"
