@@ -3,7 +3,7 @@ position: 1
 lang: fr
 type: portfolio
 title: Graphisme Textile
-description: Ces imprimés ont été créées principalement pour le PAP femme et linge de maison
+description: Imprimés et broderies prêt-à-porter femme et linge de maison
 images: graphisme-textile
 ---
 
