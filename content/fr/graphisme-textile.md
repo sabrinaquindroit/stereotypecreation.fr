@@ -7,8 +7,10 @@ description: Ces imprimés ont été créées principalement pour le PAP femme e
 images: graphisme-textile
 ---
 
-Nec vox accusatoris ulla licet subditicii in his malorum quaerebatur acervis ut saltem specie tenus crimina praescriptis legum committerentur, quod aliquotiens fecere principes saevi: sed quicquid Caesaris implacabilitati sedisset, id velut fas iusque perpensum confestim urgebatur impleri.
+Les imprimés que je réalise sont destinés à être vendus à mes clients que ce soit dans la mode, les bureaux de tendances où la décoration d’intérieur.
+Certains sont entièrement dessinés en PAO, tandis que d’autres ont d’abord été travaillés à la main (crayon, feutre, peinture…)
 
-Has autem provincias, quas Orontes ambiens amnis imosque pedes Cassii montis illius celsi praetermeans funditur in Parthenium mare, Gnaeus Pompeius superato Tigrane regnis Armeniorum abstractas dicioni Romanae coniunxit.
+Je crée les imprimés principalement sur commande, mais j’ai également une petite collection personnelle que je peux réadapter selon les besoins.
+Je trouve inspiration en grande partie dans la nature (floraux, animaliers…) mais également dans la vie de tous les jours et lors de mes voyages (textures, architectures, matières, couleurs…)
 
-Hac ita persuasione reducti intra moenia bellatores obseratis undique portarum aditibus, propugnaculis insistebant et pinnis, congesta undique saxa telaque habentes in promptu, ut si quis se proripuisset interius, multitudine missilium sterneretur et lapidum.
+Si vous souhaitez voir mon travail n’hésitez pas à me contacter.
