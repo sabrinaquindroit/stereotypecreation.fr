@@ -11,6 +11,6 @@ Les imprimés que je réalise sont destinés à être vendus à mes clients que 
 Certains sont entièrement dessinés en PAO, tandis que d’autres ont d’abord été travaillés à la main (crayon, feutre, peinture…)
 
 Je crée les imprimés principalement sur commande, mais j’ai également une petite collection personnelle que je peux réadapter selon les besoins.
-Je trouve inspiration en grande partie dans la nature (floraux, animaliers…) mais également dans la vie de tous les jours et lors de mes voyages (textures, architectures, matières, couleurs…)
+Je trouve mon inspiration en grande partie dans la nature (floraux, animaliers…) mais également dans la vie de tous les jours et lors de mes voyages (textures, architectures, matières, couleurs…)
 
 Si vous souhaitez voir mon travail n’hésitez pas à me contacter.
