@@ -7,9 +7,11 @@ description: Techniques mixtes, acrylique et feutre sur toile
 images: tableaux
 ---
 
-Quid enim tam absurdum quam delectari multis inanimis rebus, ut honore, ut gloria, ut aedificio, ut vestitu cultuque corporis, animante virtute praedito, eo qui vel amare vel, ut ita dicam, redamare possit, non admodum delectari? Nihil est enim remuneratione benevolentiae, nihil vicissitudine studiorum officiorumque iucundius.
+J’aime travailler sur des grands formats, la plupart de mes toiles mesurent 100cm X 81cm minimum.
+J’utilise des techniques mixtes en passant par l’acrylique, le crayon, l’encre, la craie, en cherchant toujours à expérimenter différents outils comme la peinture  mélangée au plâtre travaillée au couteau,  peindre avec des brosses à dents…
+Les couleurs vives ont une places importantes dans mon travail.
 
-Quaestione igitur per multiplices dilatata fortunas cum ambigerentur quaedam, non nulla levius actitata constaret, post multorum clades Apollinares ambo pater et filius in exilium acti cum ad locum Crateras nomine pervenissent, villam scilicet suam quae ab Antiochia vicensimo et quarto disiungitur lapide, ut mandatum est, fractis cruribus occiduntur.
+La nature et les contes restent pour moi une source inépuisable d’inspirations que l’on retrouve de manière récurrente dans mes différents projets.
 
-Quod si rectum statuerimus vel concedere amicis, quidquid velint, vel impetrare ab iis, quidquid velimus, perfecta quidem sapientia si simus, nihil habeat res vitii; sed loquimur de iis amicis qui ante oculos sunt, quos vidimus aut de quibus memoriam accepimus, quos novit vita communis. Ex hoc numero nobis exempla sumenda sunt, et eorum quidem maxime qui ad sapientiam proxime accedunt.
+Pour toutes commandes ou demandes d’informations n’hésitez pas à me contacter.
 
