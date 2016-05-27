@@ -8,7 +8,7 @@ images: carnets-illustres
 ---
 
 
-Bestiaire .
+B E S T I A I R E .
 
 Je développe une série de carnets illustrés dans l’esprit kraft, à la texture naturelle. C’est un peu un bestiaire, regroupant des illustrations d’animaux, fictifs et réels.
 Je propose 2 coloris: marron et gris.
