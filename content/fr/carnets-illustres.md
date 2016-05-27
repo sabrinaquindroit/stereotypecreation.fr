@@ -10,7 +10,7 @@ images: carnets-illustres
 
 Bestiaire .
 
-Je développe une série de carnets illustrés dans l’esprit kraft, à la texture naturelle.
+Je développe une série de carnets illustrés dans l’esprit kraft, à la texture naturelle. C’est un peu un bestiaire, regroupant des illustrations d’animaux, fictifs et réels.
 Je propose 2 coloris: marron et gris.
 Sur ces fonds colorés, je travaille la lumière et les reliefs à l’aide d’encre noire et blanche. Chaque pièce est unique, authentique et personnalisable.
 
