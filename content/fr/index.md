@@ -21,7 +21,7 @@ J’ai ensuite collaboré à plusieurs reprises avec des grandes enseignes fran�
 J’ai appris à maîtriser les logiciels de PAO (Illustrator, Photoshop)et à créer des collections d’imprimés, placés et all over, des broderies, et toutes sortes d’animations textiles.
 Je suis à présent Free Lance, et je propose plusieurs types de prestations, destinées à la foi aux particuliers et aux entreprises. »
 
-about_image     : "profile.p
+about_image     :"profile.p
 
 # Contact
 contact_title                : "Contact"
