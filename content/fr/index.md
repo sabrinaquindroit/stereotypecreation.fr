@@ -14,7 +14,7 @@ portfolio_title : "My Works"
 
 # A propos
 about_title     : "A propos"
-about_message   : « Diplômée d’études de design de mode et environnement, j’ai débuté ma carrière professionnelle en tant que styliste pour le prêt-à-porter femme.
+about_message   :« Diplômée d’études de design de mode et environnement, j’ai débuté ma carrière professionnelle en tant que styliste pour le prêt-à-porter femme.
 Dans un premier temps, j’ai travaillé pour des petites structures faisant partie de la Maison de Mode de Lille, j’y ai découvert les techniques de coutures et de fabrication du vêtement sur-mesure et fait-main Haut de gamme.
 J’ai ensuite collaboré à plusieurs reprises avec des grandes enseignes françaises spécialisées dans la vente à distance telles que La Redoute et les 3Suisses en tant que styliste pour le secteur femme.
 J’ai appris à maîtriser les logiciels de PAO (Illustrator, Photoshop)et à créer des collections d’imprimés, placés et all over, des broderies, et toutes sortes d’animations textiles.
