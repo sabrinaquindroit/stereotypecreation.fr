@@ -7,11 +7,13 @@ description: Techniques mixtes, acrylique et feutre sur toile
 images: tableaux
 ---
 
-J’aime travailler sur des grands formats, la plupart de mes toiles mesurent 100cm X 81cm minimum.
-J’utilise des techniques mixtes en passant par l’acrylique, le crayon, l’encre, la craie, en cherchant toujours à expérimenter différents outils comme la peinture au couteau, avec les doigts, avec des brosses à dents, des branches de bois…
-Les couleurs vives ont une places importantes dans mon travail.
+J’aime travailler sur des grands formats, la plupart de mes toiles mesurent 100cm X 81cm.
+J’utilise des techniques mixtes en passant par l’acrylique, le crayon, l’encre, la craie.
 
+Mes outils: pinceaux, rouleaux, éponges, chiffons, couteaux, brosse à dents, branches… 
+
+Les couleurs vives tiennent une place importante dans mon travail et encore une fois, les animaux sont les principaux sujets d’expérimentations.
 La nature et les contes restent pour moi une source inépuisable d’inspirations que l’on retrouve de manière récurrente dans mes différents projets.
 
-Pour toutes commandes ou demandes d’informations n’hésitez pas à me contacter.
+Pour toutes commandes ou demandes d’informations n’hésitez pas à me contacter par mail.
 
