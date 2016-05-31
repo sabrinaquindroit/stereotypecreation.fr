@@ -3,7 +3,7 @@
 /* slider
 ----------------------------------------------------------*/
 .slider {
-    padding: 10px;
+    padding: 0px;
 }
 
 .slide > * {
@@ -27,8 +27,8 @@
 }
 .slider .slide-prev:before, .slider .slide-next:before {
 	display: block;
-	width: 48px;
-	height: 48px;
+	width: 16px;
+	height: 16px;
 	font-size: 64px;
 	line-height: 50px;
 	text-align: center;
@@ -74,8 +74,8 @@ ul.es-pager li {
     display: inline-block;
     margin: 2px;
     padding: 0;
-    height: 16px;
-    width: 16px;
+    height: 8px;
+    width: 8px;
     cursor: pointer;
 	border: 2px solid #888;
 	border-radius: 7px;

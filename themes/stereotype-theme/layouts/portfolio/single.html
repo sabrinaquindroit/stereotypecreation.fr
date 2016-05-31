@@ -17,15 +17,17 @@
             </div>
             <br><br>
             <div class="row">
-                <div class="col-lg-5 text-left">
+                <div class="col-lg-6 text-left">
                     <p>{{ .Content }}</p>
                 </div>
-                <div  class="col-lg-7 text-right">
+                <div  class="col-lg-6 text-right">
                     <div id="slider">
                     {{ $files := readDir (printf "static/img/%s" $images) }}
                     {{ range $files }}
                         {{ if ne  .Name "default.png" }}
+                        {{ if ne  .Name ".DS_Store" }}
                         <img src="{{$url}}img/{{ $images }}/{{.Name}}" class="img-responsive img-centered" />
+                        {{ end }}
                         {{ end }}
                     {{ end }}
                     </div>
@@ -34,6 +36,7 @@
             <div class="row">
                 <div class="col-lg-12 text-left"><br><br><br>
                     <b><a href="{{ .Site.BaseURL }}{{ $language }}/">< Retour</a></b>
+                    <br /><br />
                 </div>
             </div>
         </div>
@@ -46,8 +49,8 @@
         $("#slider").excoloSlider({
             interval: 5000,
             playReverse: true,
-            width: '600',
-            hight: '600'
+            width: '500',
+            height: '500'
         });
     });
 </script>
