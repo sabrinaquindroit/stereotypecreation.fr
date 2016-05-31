@@ -14,13 +14,14 @@ portfolio_title : "My Works"
 
 # A propos
 about_title     : "A propos"
-about_message   : « Diplômée d’études de design de mode et environnement, j’ai débuté ma carrière professionnelle en tant que styliste pour le prêt-à-porter femme.
-Dans un premier temps, j’ai travaillé pour des petites structures faisant partie de la Maison de Mode de Lille, j’y ai découvert les techniques de coutures et de fabrication du vêtement sur-mesure et fait-main Haut de gamme.
-J’ai ensuite collaboré à plusieurs reprises avec des grandes enseignes françaises spécialisées dans la vente à distance telles que La Redoute et les 3Suisses en tant que styliste pour le secteur femme.
-J’ai appris à maîtriser les logiciels de PAO (Illustrator, Photoshop)et à créer des collections d’imprimés, placés et all over, des broderies, et toutes sortes d’animations textiles.
-Je suis à présent Free Lance, et je propose plusieurs types de prestations, destinées à la foi aux particuliers et aux entreprises. »
+about_message   : "<p>Diplômée d’études de design de mode et environnement, j’ai débuté ma carrière professionnelle en tant que styliste pour le prêt-à-porter femme. </p>
+<p>Dans un premier temps, j’ai travaillé pour des petites structures faisant partie de la Maison de Mode de Lille, j’y ai découvert les techniques de coutures et de fabrication du vêtement sur-mesure et fait-main Haut de gamme.</p>
+<p>J’ai ensuite collaboré à plusieurs reprises avec des grandes enseignes françaises spécialisées dans la vente à distance telles que La Redoute et les 3Suisses en tant que styliste pour le secteur femme.</p>
+<p>J’ai appris à maîtriser les logiciels de PAO (Illustrator, Photoshop)et à créer des collections d’imprimés, placés et all over, des broderies, et toutes sortes d’animations textiles.</p>
+<p>Je suis à présent Free Lance, et je propose plusieurs types de prestations, destinées à la foi aux particuliers et aux entreprises.</p>"
 
-about_image     : "profile.p
+about_image     : "profile.png"
+
 
 # Contact
 contact_title                : "Contact"

@@ -13,8 +13,13 @@ logo_subtitle   : "Textile graphic designs, illustrations and paintings"
 portfolio_title : "My Works"
 
 # A propos
-about_title     : "About"
-about_message   : "Phasellus vehicula varius tortor ultrices laoreet. Nulla vitae euismod sem, eget maximus sapien. </p><p>Etiam vestibulum hendrerit felis nec facilisis. Donec justo nisl, euismod nec accumsan vel, efficitur et sapien. Nullam eleifend urna quis neque commodo rhoncus. </p><p>Nulla malesuada tortor vitae nunc pellentesque sollicitudin. Morbi vel diam eget nisi dictum vulputate. Ut dapibus, nunc a rutrum dictum, mauris tellus malesuada nunc, non eleifend dui diam sed ligula. Nunc enim lorem, imperdiet gravida mauris sed, viverra faucibus ipsum. Etiam cursus hendrerit magna, nec volutpat dui convallis eget. Curabitur facilisis tempus neque, id mattis velit commodo ut. Phasellus eget lacus sit amet nunc facilisis tristique."
+about_title     : "A propos"
+about_message   : "<p>Diplômée d’études de design de mode et environnement, j’ai débuté ma carrière professionnelle en tant que styliste pour le prêt-à-porter femme. </p>
+<p>Dans un premier temps, j’ai travaillé pour des petites structures faisant partie de la Maison de Mode de Lille, j’y ai découvert les techniques de coutures et de fabrication du vêtement sur-mesure et fait-main Haut de gamme.</p>
+<p>J’ai ensuite collaboré à plusieurs reprises avec des grandes enseignes françaises spécialisées dans la vente à distance telles que La Redoute et les 3Suisses en tant que styliste pour le secteur femme.</p>
+<p>J’ai appris à maîtriser les logiciels de PAO (Illustrator, Photoshop)et à créer des collections d’imprimés, placés et all over, des broderies, et toutes sortes d’animations textiles.</p>
+<p>Je suis à présent Free Lance, et je propose plusieurs types de prestations, destinées à la foi aux particuliers et aux entreprises.</p>"
+
 about_image     : "profile.png"
 
 # Contact
