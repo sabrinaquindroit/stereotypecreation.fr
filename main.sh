@@ -4,6 +4,7 @@ echo "--- Menu général ---"
 echo "Saisissez un choix,  <q> pour quitter le menu"
 echo "<1> 	Apercu du site"
 echo "<2> 	Publier le site"
+echo "<3>       Recupérer"
 echo "<q>   Quitter"
 read choix
 case $choix in
@@ -19,6 +20,11 @@ case $choix in
             git push origin master
             echo "OK."
             exit;;
+
+	3)
+	   git pull origin master
+	   echo "Ok."
+	   exit;;
         q)
             break
             exit;;
